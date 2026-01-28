@@ -1,0 +1,12 @@
+{
+  "foundryUrl": "https://abhipersonal.euw-3.palantirfoundry.co.uk",
+  "widgetSet": {
+    "rid": "ri.widgetregistry..widget-set.648809fd-53d9-4f6f-8346-1b7667fc1938",
+    "repository": "ri.stemma.main.repository.6bc98616-3147-4c91-9d05-6a3b8e838b87",
+    "directory": "./dist",
+    "autoVersion": {
+      "type": "git-describe",
+      "tagPrefix": ""
+    }
+  }
+}
